@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/parasss19/Webcrawlerhttp.git)"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
